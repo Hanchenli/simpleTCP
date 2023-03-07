@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "multitimer.h": "c",
+        "utlist.h": "c",
+        "tuple": "c",
+        "random": "c",
+        "*.tcc": "c",
+        "bitset": "c",
+        "memory": "c",
+        "optional": "c"
+    }
+}
